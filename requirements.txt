@@ -1,1 +1,1 @@
-sentry-ldap-auth
+-e git://github.com/sergeohl/getsentry-ldap-auth.git#egg=sentry-ldap-auth
