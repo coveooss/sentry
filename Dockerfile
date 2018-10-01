@@ -1,4 +1,4 @@
-FROM sentry:9.0.0
+FROM sentry:8.22
 
 RUN apt update && apt upgrade -y
 
